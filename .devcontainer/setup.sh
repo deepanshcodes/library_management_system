@@ -8,3 +8,5 @@ sudo apt-get install -y docker-compose
 python --version
 pip --version
 docker --version
+# Install requirements.txt
+pip install -r requirements.txt
